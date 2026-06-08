@@ -1,0 +1,22 @@
+# Build outputs
+*.exe
+*.o
+*.obj
+*.out
+*.dll
+*.lib
+*.pdb
+
+# IDE/editor files
+.vs/
+.vscode/
+*.user
+*.suo
+
+# OS files
+Thumbs.db
+Desktop.ini
+
+# Local scratch
+work/
+outputs/
